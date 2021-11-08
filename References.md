@@ -4,3 +4,5 @@
 2. S. Hanany, M. Niemack, L. Page, 2012, _Instrumentation and Methods for Astrophysics_ (https://doi.org/10.1088/1361-6633/aa94d5)
 3. M. J. Persky, _Review of Scientific Instruments_ **70**, 2193 (1999) (https://doi.org/10.1063/1.1149739)
 4. https://zenodo.org/record/1322839#.YYkJO2BKhPZ
+5. https://formlabs.com/eu/3d-printers/form-3/
+6. https://www.3dresyns.com/collections/conductive-materials
