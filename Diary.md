@@ -13,6 +13,9 @@ The file consist of daily updates of the work done during the internship. Genera
 - CMB data mostly as maps (COBE 1989-1993, WMAP 2001-2010, PLANCK 2009-2013)
 - Sources of the polarisation of CMB (Thomson scattering, Gravitational waves, ...)
 
+##18.10.2021
+- Reading S. Sttags, part about CMB observations inpact on cosmology topics.
+
 ## 7.11.2021
 - Reinstalled anaconda
 - Properly installed jupyter notebook
