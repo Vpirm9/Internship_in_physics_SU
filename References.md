@@ -6,3 +6,5 @@
 4. https://zenodo.org/record/1322839#.YYkJO2BKhPZ
 5. https://formlabs.com/eu/3d-printers/form-3/
 6. https://www.3dresyns.com/collections/conductive-materials
+7. https://www.youtube.com/watch?v=ndSD9U34-gM
+8. MLA. Ryden, Barbara Sue. _Introduction to Cosmology_. San Francisco :Addison-Wesley, 2003. (ISBN: 978-0805389128)
