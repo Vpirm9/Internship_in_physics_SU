@@ -16,6 +16,13 @@ The file consist of daily updates of the work done during the internship. Genera
 ## 18.10.2021
 - Reading S. Sttags, part about CMB observations inpact on cosmology topics.
 
+## 19.11.2021
+- Reading S. Sttags, part about different modes and polarisation aptterns.
+
+## 20.11.2021
+- Weekly meeting, discussion about future reading (cosmology basics ...)
+- Reading S. Sttags, Gravitational lensing and SZ effect.
+
 ## 7.11.2021
 - Reinstalled anaconda
 - Properly installed jupyter notebook
