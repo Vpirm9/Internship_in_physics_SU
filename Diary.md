@@ -26,7 +26,20 @@ The file consist of daily updates of the work done during the internship. Genera
 ## 21.11.2021
 - Reading S. Sttags, measuring methods of CMB bacground.
 
+
+## 28.11.2021 
+- Weekly meeting. Discussion about different modes of CMB, meaning of l-spectrum.
+- We decided, that I will try to follow CMB Analysis Summer School at Univesrity of Michigan material by Jeff McMahon(https://github.com/jeffmcm1977/CMBAnalysis_SummerSchool). We decided, that I should also check the python library healpy.
+
+## 4.11.2021
+- Weekly meeting. We checked the current advancement with CMB Analysis summer school. We decided, that I should write lab diary in the form of Jupyter notebooks on Github. We also decided, that I need to check for suitable models for test prints using Formlabs 3.
+
 ## 7.11.2021
 - Reinstalled anaconda
 - Properly installed jupyter notebook
 - Started GitHub repository
+- Succesfuly run healpay inside Oracle VirtualBox. I wasn't able to succesfully install it on Windows machine. Since virtual machine isn't ideal another suitable option should be found, either in form of remote machine or dual boot.
+
+## 9.11.2021
+- Checked for some suitable test models for 3D printing.
+
