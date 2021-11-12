@@ -43,3 +43,12 @@ The file consist of daily updates of the work done during the internship. Genera
 ## 9.11.2021
 - Checked for some suitable test models for 3D printing.
 
+## 11.11.2021
+-  We had a wekly meeting and discussed the current work progress. 
+-  We talked about basics of using Formlabs2
+-  I made a Formlabs account and start with test prints (Test prints repository).
+
+## 12.11.2021
+- I removed test prints from the printer.
+- I washed and cured them.
+- The dimensions of prints were measured, and tolerances were estimated. Future attention should be dedicated to avoiding varping of parts during the curing proces, becouse the first prints would be practically useless due to significat warp.
