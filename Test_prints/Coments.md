@@ -1,4 +1,4 @@
-##Coments of test 3D prints
+## Coments of test 3D prints
 
 It was observed, that smole details are printed with precision under 0.15 mm. It's worth commenting that the measurements were made usinf vernier caliper with resolution 0.05 mm. I assume this is usefull for our applications, and especially good compared to my previous experience using FFF 3D printers.
 
