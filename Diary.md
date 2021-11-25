@@ -67,3 +67,17 @@ The file consist of daily updates of the work done during the internship. Genera
 ## 18.11.2021
 - I rebooted the printer and the error went away. I started printing the absorber.
 - I tried to get python code to work, first on my Win10 machine, then also on Mac in the lab. I get  "ImportError: cadquery was unable to determine freecad library path" error constantly.
+
+## 19.11.2021
+- The print was finished, Therefore I started with cleaning. I did 15 min washing and 60 min curing at 60 degrees.
+- Small warp was observed in the printed absorber.
+- I collected the delivery of IPA.
+- I removed the used IPA from the Formlabs washer and put in in the prewash tank.
+- I checked the python code with help of Alex A. 
+- We get it to work on Mac, and generated some Gosper curve absorbers.
+- The code still doesnt run on win machine.
+
+## 23.11.2021
+- Collected delivery of new resin.
+- I investigated the previous print of the absorber and found out some errors in the print, which can be coused by deformation in the printer silicone film. Deformation was most likely coused by the fallen support, which wass presssed into film by laser head and build plate. So part of the film in this try is useless for serious prints.
+- I generated some designs with different parameters and printed two of them, one with Gasper curve and one with Hilbert curve printed vertically.
