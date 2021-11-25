@@ -54,16 +54,16 @@ The file consist of daily updates of the work done during the internship. Genera
 - The dimensions of prints were measured, and tolerances were estimated. Future attention should be dedicated to avoiding varping of parts during the curing proces, becouse the first prints would be practically useless due to significat warp.
 
 ## 16.11.2021
--Started with test printing of absorber, for which the files were provided together with code from M. Pettrof.
--Original model was cut using thinkercad, to fit into the buildplate (approx. 130x130 mm)
+- Started with test printing of absorber, for which the files were provided together with code from M. Pettrof.
+- Original model was cut using thinkercad, to fit into the buildplate (approx. 130x130 mm)
 
 ## 17.11.2021
--I figured out, that printer didn't even started printing the prewious night since it encountered "The cartidge is empty or jammed error".
--I did some troubleshooting, but I didnt find the couse.
--I changed the grej resin for clear.
--I calibrated the resin leve sensor.
--I suspect, thet the error is conected with resni level folat, which fells, that is kinda "sticking".
+- I figured out, that printer didn't even started printing the prewious night since it encountered "The cartidge is empty or jammed error".
+- I did some troubleshooting, but I didnt find the couse.
+- I changed the grej resin for clear.
+- I calibrated the resin leve sensor.
+- I suspect, thet the error is conected with resni level folat, which fells, that is kinda "sticking".
 
-##18.11.2021
--I rebooted the printer and the error went away. I started printing the absorber.
--I tried to get python code to work, first on my Win10 machine, then also on Mac in the lab. I get  "ImportError: cadquery was unable to determine freecad library path" error constantly.
+## 18.11.2021
+- I rebooted the printer and the error went away. I started printing the absorber.
+- I tried to get python code to work, first on my Win10 machine, then also on Mac in the lab. I get  "ImportError: cadquery was unable to determine freecad library path" error constantly.
