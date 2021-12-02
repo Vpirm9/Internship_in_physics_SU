@@ -8,3 +8,4 @@
 6. https://www.3dresyns.com/collections/conductive-materials
 7. https://www.youtube.com/watch?v=ndSD9U34-gM
 8. MLA. Ryden, Barbara Sue. _Introduction to Cosmology_. San Francisco :Addison-Wesley, 2003. (ISBN: 978-0805389128)
+9. https://www.youtube.com/watch?v=o8TTFhj1pHc
