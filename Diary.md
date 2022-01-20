@@ -81,3 +81,25 @@ The file consist of daily updates of the work done during the internship. Genera
 - Collected delivery of new resin.
 - I investigated the previous print of the absorber and found out some errors in the print, which can be coused by deformation in the printer silicone film. Deformation was most likely coused by the fallen support, which wass presssed into film by laser head and build plate. So part of the film in this try is useless for serious prints.
 - I generated some designs with different parameters and printed two of them, one with Gasper curve and one with Hilbert curve printed vertically.
+
+## 24.11.2021
+- I 3D printed small hilbert curve absorbers with different supports.
+- I figured out, how to manully add suports in PreForm.
+- I cured prints and observed resoults. Due to small absorber size there was no significant warping.
+- I cured prints with different settings, according to datasheet (fast cure, vs. full cure).
+
+## 26.11.2021
+- I compared different options for converting .stl files (Solidworks vs. online tools). Theoretically this can be done in FreeCAD, altough online converters are much simple. There is data protection concern tho... But I would prefear that, since in SolidWorks it's not so simple.
+
+## 1.12.2021
+- I started learning how to draw 3D models in CADquerry from scratch.
+- I succeded in making one element of pyramide-shaped absorber.
+
+## 2.12.2021
+- I finsihed designing pyramide shaped absorber.
+- I printed pyramide shaped absorber.
+- I started reading about different absorer geometries (dog leg absorber)
+
+## 3.12.2021
+- I cured pyramide shaped absorber and cured it.
+- I observed quite siggnificant warp, which appeared during curing process.
