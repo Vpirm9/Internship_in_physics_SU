@@ -103,3 +103,42 @@ The file consist of daily updates of the work done during the internship. Genera
 ## 3.12.2021
 - I cured pyramide shaped absorber and cured it.
 - I observed quite siggnificant warp, which appeared during curing process.
+- A simple explanation fo war caused by uneven absorbtion due to print shape was "invented".
+
+## 7.12.2021
+- I designed dog-leg absorber shape and printed it.
+- Print was made with weight on top, and that significantly improowed the result.
+- I researched what are possible gemoetric shapes of such kind of absorber (angles, dimensions...).
+
+## 8.12.2021
+- I did a short cathcing up to physics behind the microvave absorbers.
+
+## 10.12.2021
+- I read about different 3rd party resins.
+- I searched for avaliable programable cartidges for 3rd party resins.
+
+## 13.12.2021
+- I sketched design for the curing press, which would hold prints, during the curing process and avoid warp.
+- I also did a litle bit of research for possible stacking mechanisms.
+
+## 14.12.2021
+-I read https://www.academia.edu/14864670/Monostatic_Reflectivity_Measurement_of_Radar_Absorbing_Materials_at_310_GHz
+
+## 15.12.2021
+- I read https://www.researchgate.net/publication/226057499_Miscellaneous_data_on_materials_for_millimetre_and_submillimetre_optics
+
+## 7.1.2021
+- Aranging details of the final presentation
+
+## 10.1.2021
+- Final meeting with Jon before leaving Stockholm.
+
+## 18.1.2021
+- Working on Hilbert curve dog leg absorber.
+
+
+
+
+
+
+## 
